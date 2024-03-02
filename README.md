@@ -22,28 +22,11 @@ Internet connection: wideband connection for first use (for neural network model
 Admin privileges are not a requirement
 
 
-* Run without instalation :
-
-Requirements instalation
-
-git clone https://gitlab.com/digiratory/biomedimaging/parkinson-detector.git
-cd parkinson-detector
-pip install -r requirements.txt
-
-
-
-Application starting
-
-cd parkinson-detector
-python run.pyw
-
-
-
-Instalation over pip
+* Instalation over pip
 
 pip install parkinson-detector
 
 
-For starting application run the follow command:
+* For starting application run the follow command:
 
 parkinson-detector-app
